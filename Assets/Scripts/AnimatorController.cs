@@ -29,6 +29,7 @@ namespace MyVrSample
 
             handAnimatior.SetFloat("Trigger", triggerValue);
             handAnimatior.SetFloat("Grip", gripValue);
+
         }
     }
 }
